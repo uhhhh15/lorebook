@@ -207,7 +207,7 @@
                         <li><b><i class="fa-solid fa-filter"></i> 筛选:</b> 只显示你收藏过的世界书。</li>
                         <li><b><i class="fa-solid fa-star"></i> 收藏:</b> 点击星标收藏，方便筛选和排序。</li>
                     </ul>
-                    <p><b>点击UI左上角的“附加世界书管理”标题可以随时查看完整的使用说明，脚本会自动更新，欢迎大家使用！</b></p>
+                    <p><b>点击UI左上角的“附加世界书”标题可以随时查看完整的使用说明，脚本会自动更新，欢迎大家使用！</b></p>
                     <p class="update-footer">此日志仅在版本更新后首次打开时显示。</p>
                 </div>
             `;
@@ -217,7 +217,7 @@
             const uiHtml = `
                 <div id="${OVERLAY_ID}">
                     <div id="${PANEL_ID}">
-                        <div class="lm-panel-header"><h4 id="lm-show-help-btn" title="查看详细使用说明">附加世界书管理</h4><button class="lm-close-btn-top" title="关闭"><i class="fa-solid fa-times"></i></button></div>
+                        <div class="lm-panel-header"><h4 id="lm-show-help-btn" title="查看详细使用说明">附加世界书</h4><button class="lm-close-btn-top" title="关闭"><i class="fa-solid fa-times"></i></button></div>
                         <div class="lm-panel-content">
                             <div class="lm-top-controls">
                                 <div class="lm-dropdown-container">
